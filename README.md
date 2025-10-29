@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kendell Pierre
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning to become a junior wordpress Developer
+- 🌱 I’m currently learning to become a junior full stack Developer
 - 💞️ I’m looking to collaborate on CSS and HTML projects
 - 📫 How to reach me Kpierre24@gmail.com
 
